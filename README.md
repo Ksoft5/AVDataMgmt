@@ -1,2 +1,2 @@
 # AVDataMgmt
-A repository for a generic estimate of the energy requirements for managing an autonomous vehicle fleet in the USA.
+A repository for a modeled estimate of the energy requirements for managing an autonomous vehicle fleet in the USA.
